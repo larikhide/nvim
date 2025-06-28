@@ -1,7 +1,6 @@
 return {
 	{
 		"rose-pine/neovim",
-		name = "rose-pine",
 	},
 	{
 		"neanias/everforest-nvim",
@@ -13,5 +12,8 @@ return {
 				show_eob = false,
 			})
 		end,
+	},
+	{
+		"water-sucks/darkrose.nvim",
 	},
 }
