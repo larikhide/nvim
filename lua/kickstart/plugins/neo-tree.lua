@@ -25,5 +25,6 @@ return {
 			},
 			use_libuv_file_watcher = true,
 		},
+		git_status_async = false,
 	},
 }
